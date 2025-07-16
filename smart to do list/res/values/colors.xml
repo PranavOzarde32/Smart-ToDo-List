@@ -1,0 +1,7 @@
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="card_background">#FFF8E1</color>
+    <color name="edit_bg">#FFE0B2</color>
+    <color name="button_bg">#FF8A65</color>
+</resources>
